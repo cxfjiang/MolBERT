@@ -1,0 +1,97 @@
+Traceback (most recent call last):
+  File "generate_dict.py", line 3, in <module>
+    from rdkit import Chem
+ModuleNotFoundError: No module named 'rdkit'
+[10:53:45] WARNING: not removing hydrogen atom without neighbors
+[10:53:45] WARNING: not removing hydrogen atom without neighbors
+[10:53:45] WARNING: not removing hydrogen atom without neighbors
+[11:03:59] WARNING: not removing hydrogen atom without neighbors
+[11:09:49] WARNING: not removing hydrogen atom without neighbors
+[11:17:20] WARNING: not removing hydrogen atom without neighbors
+final size 5
+[12:30:32] WARNING: not removing hydrogen atom without neighbors
+[12:30:32] WARNING: not removing hydrogen atom without neighbors
+[12:30:32] WARNING: not removing hydrogen atom without neighbors
+[12:40:52] WARNING: not removing hydrogen atom without neighbors
+[12:46:48] WARNING: not removing hydrogen atom without neighbors
+[12:54:22] WARNING: not removing hydrogen atom without neighbors
+final size 5
+[13:58:51] WARNING: not removing hydrogen atom without neighbors
+[13:58:51] WARNING: not removing hydrogen atom without neighbors
+[13:58:51] WARNING: not removing hydrogen atom without neighbors
+[14:09:08] WARNING: not removing hydrogen atom without neighbors
+[14:15:00] WARNING: not removing hydrogen atom without neighbors
+[14:22:33] WARNING: not removing hydrogen atom without neighbors
+final size 84571
+[23:19:04] WARNING: not removing hydrogen atom without neighbors
+[23:19:04] WARNING: not removing hydrogen atom without neighbors
+[23:19:04] WARNING: not removing hydrogen atom without neighbors
+[23:29:23] WARNING: not removing hydrogen atom without neighbors
+[23:35:15] WARNING: not removing hydrogen atom without neighbors
+[23:42:49] WARNING: not removing hydrogen atom without neighbors
+final size 75740
+Traceback (most recent call last):
+  File "generate_dict.py", line 3, in <module>
+    from rdkit import Chem
+ModuleNotFoundError: No module named 'rdkit'
+[10:05:37] WARNING: not removing hydrogen atom without neighbors
+[10:05:37] WARNING: not removing hydrogen atom without neighbors
+[10:05:37] WARNING: not removing hydrogen atom without neighbors
+[10:15:46] WARNING: not removing hydrogen atom without neighbors
+[10:21:34] WARNING: not removing hydrogen atom without neighbors
+[10:29:02] WARNING: not removing hydrogen atom without neighbors
+final size 69374
+[11:28:47] WARNING: not removing hydrogen atom without neighbors
+[11:28:47] WARNING: not removing hydrogen atom without neighbors
+[11:28:47] WARNING: not removing hydrogen atom without neighbors
+[11:38:57] WARNING: not removing hydrogen atom without neighbors
+[11:44:46] WARNING: not removing hydrogen atom without neighbors
+[11:52:14] WARNING: not removing hydrogen atom without neighbors
+final size 64707
+[15:07:30] WARNING: not removing hydrogen atom without neighbors
+[15:07:30] WARNING: not removing hydrogen atom without neighbors
+[15:07:30] WARNING: not removing hydrogen atom without neighbors
+[15:17:41] WARNING: not removing hydrogen atom without neighbors
+[15:23:30] WARNING: not removing hydrogen atom without neighbors
+[15:30:59] WARNING: not removing hydrogen atom without neighbors
+8
+final size 57728
+0.025 0
+0.05 0
+0.075 0
+0.1 0
+0.125 0
+0.15 0
+0.175 0
+0.2 0
+0.225 0
+0.25 0
+0.275 0
+0.3 0
+0.325 0
+0.35 0
+0.375 0
+0.4 0
+0.425 0
+0.45 0
+0.475 0
+0.5 0
+0.525 0
+0.55 0
+0.575 0
+0.6 0
+0.625 0
+0.65 0
+0.675 0
+0.7 0
+0.725 0
+0.75 0
+0.775 0
+0.8 0
+0.825 0
+0.85 0
+0.875 0
+0.9 0
+0.925 0
+0.95 0
+final size 13325

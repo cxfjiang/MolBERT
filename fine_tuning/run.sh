@@ -1,0 +1,4 @@
+#nohup python3 prediction_Training_r0_r1_seq100_5fold.py --dataset_name freesolv --cudaId 0 --batch_size 3 --model_Id 1 --num_hidden_layers 6 --num_attention_heads 6 --hidden_dropout_prob 0.5 --attention_probs_dropout_prob 0.5
+#nohup python3 prediction_Training_r0_r1_seq100_5fold.py --dataset_name esol --cudaId 0 --batch_size 3 --model_Id 1 --num_hidden_layers 6 --num_attention_heads 6 --hidden_dropout_prob 0.5 --attention_probs_dropout_prob 0.5
+#nohup python3 prediction_Training_r0_r1_seq100_5fold.py --dataset_name lipophilicity --cudaId 0 --batch_size 3 --model_Id 1 --num_hidden_layers 6 --num_attention_heads 6 --hidden_dropout_prob 0.5 --attention_probs_dropout_prob 0.5
+#nohup python3 prediction_Training_r0_r1_seq100_5fold.py --dataset_name bbbp --cudaId 0 --batch_size 3 --model_Id 1 --num_hidden_layers 6 --num_attention_heads 6 --hidden_dropout_prob 0.5 --attention_probs_dropout_prob 0.5
